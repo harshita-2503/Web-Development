@@ -1,0 +1,10 @@
+h1{
+    text-align: center; /* relative to parent */
+    /* width: 50%; */
+}
+h3{
+    text-align: right;
+}
+p{
+    text-align: end; /*  right*/
+}
