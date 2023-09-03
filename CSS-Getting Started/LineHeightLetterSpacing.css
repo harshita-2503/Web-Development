@@ -1,0 +1,24 @@
+h1{
+    text-align: center; /* relative to parent */
+    /* width: 50%; */
+    text-decoration: wavy red underline;
+    letter-spacing: 10px;
+}
+h3 {
+    text-align: start;
+    text-decoration: white line-through;
+}
+p{
+    text-align: justify; 
+    font-weight: 400;
+    line-height: 1.5;
+    
+}
+
+h2{
+    text-decoration: double blue overline;
+    font-weight: 800;
+}
+a{
+    text-decoration: none;
+}
